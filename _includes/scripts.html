@@ -16,5 +16,15 @@
 </script>
 {% endif %}
 
-<script src="//load.sumome.com/" data-sumo-site-id="ffc605296f9055538a713a295f4376d89a2ae79b1bb6f19d36cac7f1be6eadd6" async="async"></script>
+<!-- BEGIN PRIVY WIDGET CODE -->
+<script type='text/javascript'>
+var _d_site = _d_site || 'C4E77AA21B43A61F25BC9C55';
+(function(w, d, p, s, s2) { 
+  w[p] = w[p] || function() { (w[p].q = w[p].q || []).push(arguments) }
+  s = d.createElement('script'); s.async = 1; s.src = '//widget.privy.com/assets/widget.js'; 
+  s2 = d.getElementsByTagName('script')[0]; s2.parentNode.insertBefore(s, s2); 
+})(window, document, 'Privy');
+</script>
+<!-- END PRIVY WIDGET CODE -->
+
 {% if page.comments != false %}{% include disqus_comments.html %}{% endif %}
