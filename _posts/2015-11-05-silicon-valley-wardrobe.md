@@ -2,8 +2,8 @@
 layout: post
 title: Present Like Pied Piper
 description: "A detailed look into the wardrobe of our favorite Silicon Valley characters at Pied Piper."
-comments: false
-modified: 2015-10-05
+comments: true
+modified: 2015-11-07
 tags: [Programmer, Apparel, Pied Piper, Silicon Valley]
 image:
   feature: silicon-valley/feature-image.jpg
