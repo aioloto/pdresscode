@@ -2,11 +2,13 @@
 layout: post
 title: Present Like Pied Piper
 description: "A detailed look into the wardrobe of our favorite Silicon Valley characters at Pied Piper."
+categories: style
 comments: true
 modified: 2015-11-07
 tags: [Programmer, Apparel, Pied Piper, Silicon Valley]
 image:
   feature: silicon-valley/feature-image.jpg
+  thumb: silicon-valley/thumb.jpg
 ---
 
 Programmer Dress Code & Gadgets wouldn't feel right without a first post dedicated to our all-too-relatable heros over at Pied Piper, grinding out the long hours for a cause they have believed in from its very beginnings. These guys provide a pretty solid summary of the casual dress code that we can expect<sup>*</sup> at a startup. 
