@@ -1,22 +1,28 @@
-<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
-	<button class="dl-trigger">Open Menu</button>
-	<ul class="dl-menu">
-		<li><a href="{{ site.url }}/">Home</a></li>
-	
-		<li>
-			<a href="#">Posts</a>
-			<ul class="dl-submenu">
-				<li><a href="{{ site.url }}/posts/">All Posts</a></li>
-				<li><a href="{{ site.url }}/tags/">All Tags</a></li>
-			</ul>
-		</li>
-		{% for link in site.data.navigation %}
-	    {% if link.url contains 'http' %}
-	        {% assign domain = '' %}
-	        {% else %}
-	        {% assign domain = site.url %}
-	    {% endif %}
-	    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-	  {% endfor %}
-	</ul><!-- /.dl-menu -->
-</nav><!-- /.dl-menuwrapper -->
+    <link rel="stylesheet" href="/assets/demo.css">
+    <link rel="stylesheet" href="/assets/navigation-dark.css">
+    <link rel="stylesheet" href="/assets/slicknav/slicknav.min.css">
+
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<!-- /.dl-menuwrapper -->
+<nav class="menu-navigation-dark">
+    <!-- <ul>
+        <li><a href="{{ site.url }}">Home</a></li>
+        <li>
+            <a href="#">Posts</a>
+            <ul>
+                <li><a href="{{ site.url }}/posts/">All Posts</a></li>
+                <li><a href="{{ site.url }}/tags/">All Tags</a></li>
+            </ul>
+        </li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Contact</a></li>
+     </ul>-->
+     <a class="home" href="{{ site.url }}/">
+   <i class="fa fa-home"></i><span>Home</span></a>
+        <a class="tech" href="{{ site.url }}/tech">
+   <i class="fa fa-plug"></i><span>Tech</span></a>
+        <a class="style" href="{{ site.url }}/style">
+   <i class="fa fa-flash"></i><span>Style</span></a>
+</nav>
+
