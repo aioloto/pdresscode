@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Programmer Dress Code</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://www.programmerdresscode.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.programmerdresscode.com" />
+<updated>2015-11-22T03:27:16-05:00</updated>
+<id>http://www.programmerdresscode.com/</id>
+<author>
+  <name>Programmer Dress Code</name>
+  <uri>http://www.programmerdresscode.com/</uri>
+  <email>programmerdresscode@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Dual Monitor Setup for MacBook Pro 15” 2011 & 2012]]></title>
+ <link rel="alternate" type="text/html" href="http://www.programmerdresscode.com/tech/dual-monitor-setup-macbook-pro-15-inch-2011-2012/" />
+  <id>http://www.programmerdresscode.com/tech/dual-monitor-setup-macbook-pro-15-inch-2011-2012</id>
+  <published>2015-11-18T12:09:09-05:00</published>
+  <updated>2015-11-18T12:09:09-05:00</updated>
+  <author>
+    <name>Programmer Dress Code</name>
+    <uri>http://www.programmerdresscode.com</uri>
+    <email>programmerdresscode@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;As a developer, I am constantly seeking the most screen real estate possible. As a student, I cannot afford to upgrade my 2011 MacBook Pro to the newest MacBook Pro model to get the multitude of video output options offered with the Mini DisplayPort, Thunderbolt, and HDMI outputs.  Alas, I was met with a predicament - &lt;strong&gt;How can I make use of the two 24” monitors that I’ve collected so that I can have two equal-sized monitors when I am working?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After some serious investigation into my options, I settled on the &lt;a href=&quot;http://amzn.to/1QNc174&quot; target=&quot;_blank&quot;&gt;Aluratek AUH200F USB 2.0-to-HDMI adapter&lt;/a&gt; that has proven its worth over the past year and a half. This piece of equipment has been great for helping me maximize screen space, giving me lots of options for organzing my PDFs and documentation, IDEs, text editors, terminals, Slack, and various other applications that I like to have available in my view when working away at school work, side projects, or even remotely for my work (nothing beats getting paid to work in your pajamas).&lt;/p&gt;
+
+&lt;p&gt;The Aluratek adapter supports up to 1920 x 1080 widescreen monitors in extended (i.e. what we want), mirrored, or primary modes. A USB to micro-USB connection is used to connect the MacBook to the Aluratek adapter device, which provides an HDMI output that can be connected to your external display as desired.&lt;/p&gt;
+
+&lt;p&gt;Although I’ll admit this adapter is not suited for powering a monitor for which you want a high refresh rate (e.g. for gaming), it is perfect for powering a display that you want to use to house a text-editor, PDF editor, documentation in your browser, or a terminal. I’ve even tested it viewing videos using VLC and QuickTime, and both have performed well. I assume this one shortfall may be the reason why it hasn’t been able to near the 5-star rating on Amazon. Nonetheless, for applications that require a higher refresh rate, when paired with your &lt;strong&gt;typical Mini DisplayPort to HDMI adapter and another external monitor&lt;/strong&gt;, this combination can definitely be a productive powerhouse and supercharge your “aging” Macbook Pro.&lt;/p&gt;
+
+&lt;p&gt;One problem to note that I ran into when first setting up, is that the drivers that came with the packaged CD did not work on OSX Yosemite. This was solved with a simple search where I found updated &lt;a href=&quot;http://www.displaylink.com/downloads/mac_downloads.php&quot; target=&quot;_blank&quot;&gt;DisplayLink drivers&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When writing this post, I also stumbled across the &lt;a href=&quot;http://amzn.to/1QNcjuz&quot; target=&quot;_blank&quot;&gt;Cable Matters® SuperSpeed USB 3.0 to HDMI/DVI Adapter&lt;/a&gt; which has a whopping 841 reviews averaging out at 4/5 stars. With support for up to 2048x1152 resolutions, this adapter also supports USB 3 so it may even show improved refresh rates should you decide to use it with one of the USB 3 ports on a 2012 MacBook Pro. Reviews have claimed that it is also backwards compatible with your pre-2012 MBPs with USB 2 ports. When I was exploring my options, I was quick to grab the Aluratek, but I would be interested to see how this alternative performs as it seems to have quite the positive response! Let me know if you have tried it and share your thoughts below!&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://www.programmerdresscode.com/tech/dual-monitor-setup-macbook-pro-15-inch-2011-2012/&quot;&gt;Dual Monitor Setup for MacBook Pro 15” 2011 &amp; 2012&lt;/a&gt; was originally published by Programmer Dress Code at &lt;a href=&quot;http://www.programmerdresscode.com&quot;&gt;Programmer Dress Code&lt;/a&gt; on November 18, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Present Like Pied Piper]]></title>
+ <link rel="alternate" type="text/html" href="http://www.programmerdresscode.com/silicon-valley-wardrobe/" />
+  <id>http://www.programmerdresscode.com/silicon-valley-wardrobe</id>
+  <updated>2015-11-07T00:00:00-00:00</updated>
+  <published>2015-11-05T00:00:00-05:00</published>
+  
+  <author>
+    <name>Programmer Dress Code</name>
+    <uri>http://www.programmerdresscode.com</uri>
+    <email>programmerdresscode@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Programmer Dress Code &amp;amp; Gadgets wouldn’t feel right without a first post dedicated to our all-too-relatable heros over at Pied Piper, grinding out the long hours for a cause they have believed in from its very beginnings. These guys provide a pretty solid summary of the casual dress code that we can expect&lt;sup&gt;*&lt;/sup&gt; at a startup.&lt;/p&gt;
+
+&lt;p&gt;Starting from left, to right here is some details into the threads they are sporting as part of their everyday startup lifestyle! We’ve also linked to some pretty affordable, wearable, and comfortable look-a-likes for those interested in looking like they belong at the Hacker Hostel.&lt;/p&gt;
+
+&lt;h2 id=&quot;dinesh-chugtai&quot;&gt;Dinesh Chugtai&lt;/h2&gt;
+&lt;figure style=&quot;text-align:center&quot;&gt;
+    &lt;img src=&quot;/images/silicon-valley/dinesh.png&quot; alt=&quot;Dinesh, Programmer at Pied Piper&quot; /&gt;
+    &lt;figcaption&gt;Dinesh, Programmer &amp;amp; Co-CTO at Pied Piper&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;With a slight side-part Dinesh’s go-to look is that for a modern-day programmer, mixing casual colors with a collared approach to add a slight serious slant to his presentation.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Upper&lt;/strong&gt;: A &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00IQ2PA72/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00IQ2PA72&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=UOI66WQETXN26SGY&quot; target=&quot;_blank&quot;&gt;thick-striped long sleeve purple polo&lt;/a&gt; sometimes paired with a &lt;a href=&quot;&quot;&gt;cotton-based lightly-faded hoodie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lower&lt;/strong&gt;: Any pair of khakis will do, but for accuracy, these &lt;!-- &lt;a href=&quot;http://www.gap.com/browse/product.do?cid=80868&amp;vid=1&amp;pid=351367362&quot; target=&quot;_blank&quot;&gt;--&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00DBY4LAC/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00DBY4LAC&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=WC7IJW6RG7AKTJ7M&quot; target=&quot;_blank&quot;&gt;Dickies maroon-colored work pants&lt;/a&gt; are really similar to those sported by Dinesh quite frequently.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kicks&lt;/strong&gt;: Complete this outfit with some &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00R426AIS/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00R426AIS&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=VZ5O642C427R53A6&quot; target=&quot;_blank&quot;&gt;high-top skate shoes&lt;/a&gt;. Don’t forget to wear them for years to get that added authenticity!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bertram-gilfoyle&quot;&gt;Bertram Gilfoyle&lt;/h2&gt;
+
+&lt;figure style=&quot;text-align:center&quot;&gt;
+    &lt;img src=&quot;/images/silicon-valley/gilfoyle.png&quot; alt=&quot;Dinesh, Programmer at Pied Piper&quot; /&gt;
+    &lt;figcaption&gt;Bertram, Systems Architect at Pied Piper&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Besides growing your hair out to shoulder length (as someone who just recently shaved my shoulder-length hair, this pains me to write), you can stroll into work looking like Bertram pretty easily.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Upper&lt;/strong&gt;: Find a &lt;!-- &lt;a href=&quot;http://www.gap.com/browse/product.do?cid=1044427&amp;vid=1&amp;pid=718747002&quot;&gt; --&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00XYOHBX8/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00XYOHBX8&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=CLNQBYZLFNFNL6IH&quot; target=&quot;_blank&quot;&gt;plaid flannel shirt&lt;/a&gt; that is casual enough to be worn open with a &lt;a href=&quot;http://www.gap.com/browse/product.do?cid=5231&amp;amp;vid=1&amp;amp;pid=351164122&quot;&gt;simple t-shirt&lt;/a&gt; underneath.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bottom&lt;/strong&gt;: Wear some &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B016W5QG5Y/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B016W5QG5Y&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=7WWJTRMRXBSKM7CJ&quot; target=&quot;_blank&quot;&gt;dark khakis made with casual material&lt;/a&gt; to offset the plaid/gingham top.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kicks&lt;/strong&gt;: Keep it classic with the &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00WVGYCIM/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00WVGYCIM&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=55ROXIU4XSPGBLRG&quot; target=&quot;_blank&quot;&gt;Vans all-black authentic trainers&lt;/a&gt;. They’re simple, not too flashy, and will never get dirty!&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Accessories&lt;/strong&gt;: If you wanna go full Gilfoyle, you can even try a &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00K4SXVPO/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00K4SXVPO&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=EQU7DWKPHCU2EGK2&quot; target=&quot;_blank&quot;&gt;stainless carbon cross pendant&lt;/a&gt; fashioned with with some black string of your own.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;richard-hendricks&quot;&gt;Richard Hendricks&lt;/h2&gt;
+
+&lt;figure style=&quot;text-align:center&quot;&gt;
+    &lt;img src=&quot;/images/silicon-valley/richard.png&quot; alt=&quot;Richard, CEO/President at Pied Piper&quot; /&gt;
+    &lt;figcaption&gt;CEO/President at Pied Piper&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As CEO &amp;amp; President of Pied Piper, Richard’s appearance is one to observe, especially if you want to have a slightly more tailored look in the office.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Upper&lt;/strong&gt;: Throw on any &lt;!-- &lt;a href=&quot;http://www.gap.com/browse/product.do?pid=289760002&amp;vid=1&amp;locale=en_US&amp;kwid=1&amp;sem=false&amp;sdkw=modern-oxford-solid-shirt-P289760&amp;sdReferer=https%3A%2F%2Fwww.google.ca%2F&quot;&gt; --&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00GBVNW3O/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00GBVNW3O&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=EC4MM4MU3EN67BDT&quot; target=&quot;_blank&quot;&gt;oxford button down shirt &lt;/a&gt; for a respectable look, with the comfort of oxford cloth. Richard also frequently carries a &lt;!-- &lt;a href=&quot;http://www.gap.com/browse/product.do?cid=1031184&amp;vid=1&amp;pid=108434002&quot;&gt; --&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B014W4O2VM/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B014W4O2VM&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=BCNNXB4A6JMKDISK&quot; targe=&quot;_blank&quot;&gt;red zip-up hoodie&lt;/a&gt;, which is comfortable, but will definitely make your look more casual.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lower&lt;/strong&gt;: The common trend of khakis appears yet again for Richard. Try some &lt;!-- &lt;a href=&quot;http://www.gap.com/browse/product.do?cid=1041208&amp;vid=1&amp;pid=153229252&quot;&gt; --&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00B2G0T4S/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00B2G0T4S&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=OUORCABHAYDAF4AV&quot; target=&quot;_black&quot;&gt;more neutral grey colored khakis&lt;/a&gt; to maintain a professional look.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kicks&lt;/strong&gt;: Try these &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B00RB8IJCU/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00RB8IJCU&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=QSXRJBCO3DJ34YZV&quot; target=&quot;_blank&quot;&gt;timeless New Balance casual sneakers&lt;/a&gt; to get some stylish, yet comfortable footwear for your walks to the coffee bar!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;jared-dunn&quot;&gt;Jared Dunn&lt;/h2&gt;
+
+&lt;figure style=&quot;text-align:center&quot;&gt;
+    &lt;img src=&quot;/images/silicon-valley/jared.png&quot; alt=&quot;Jared, Head of Business Development at Pied Piper&quot; /&gt;
+    &lt;figcaption&gt;Head of Business Development at Pied Piper&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;While not technically a programmer, there’s always room for a developer with Jared’s style. Jared is probably the most professionally dressed of all the members of Pied Piper on a daily basis. While some offices may not require this level of dress for a developer, Jared’s wardrobe choices are certainly acceptable, especially if it’s a look you’d feel more comfortable in.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Upper&lt;/strong&gt;: Try a &lt;!-- &lt;a href=&quot;http://bananarepublic.gap.com/browse/product.do?cid=1028523&amp;vid=1&amp;pid=722517002&quot;&gt; --&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B011SLKMZW/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B011SLKMZW&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=AR37FBBMNX6WLKVM&quot; targe=&quot;_blank&quot;&gt; pullover wool sweater&lt;/a&gt; with a &lt;!-- &lt;a href=&quot;http://bananarepublic.gap.com/browse/product.do?cid=56730&amp;vid=1&amp;pid=408423002&quot;&gt; --&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B002QB0V96/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B002QB0V96&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=WAO7SCEWDWL4X4BM&quot; target=&quot;_blank&quot;&gt;solid light-blue non-iron dress shirt&lt;/a&gt; for an easy-to-maintain professional business presentation to solidify your stance as a serious business-oriented professional.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lower&lt;/strong&gt;: Kick it up a notch with some &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B0030DFBZI/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0030DFBZI&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=WWHYEL73ZUGPMIF4&quot; target=&quot;_blank&quot;&gt;pleated dark khakis&lt;/a&gt; to add a more distinguished touch to your look.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kicks&lt;/strong&gt;: Lace up with some &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B002OHE3DC/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B002OHE3DC&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=O66R7HV4RPMD434P&quot; target=&quot;_blank&quot;&gt;dark brown leather cap-toe oxford shoes&lt;/a&gt;. These shoes are versatile and can be worn with more casual khakis or a suit (when the time rolls around for that big pitch or interview).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;erlich-bachmann&quot;&gt;Erlich Bachmann&lt;/h2&gt;
+
+&lt;figure style=&quot;text-align:center&quot;&gt;
+    &lt;img src=&quot;/images/silicon-valley/erlich.png&quot; alt=&quot;Erlich, Board Member&quot; /&gt;
+    &lt;figcaption&gt;Board Member at Pied Piper&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Again, even though Erlich is not a programmer, his presence as Board Member and gracious provider of the Hacker Hostel commands recognition here on  Programmer Dress Code.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Upper&lt;/strong&gt;: Command respect with your &lt;!-- &lt;a href=&quot;http://bananarepublic.gap.com/browse/product.do?cid=1041025&amp;vid=1&amp;pid=171391002&quot;&gt; --&gt; &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B0056XP5II/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0056XP5II&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=H4CSDOETXCBKOKHH&quot; target=&quot;_blank&quot;&gt; signature Steve Jobs-wannabe all-black turtleneck&lt;/a&gt; and, if you’re feeling brave enough, throw on this &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B001GH0JBG/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B001GH0JBG&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=ZBFQAWV32XY7SKUI&quot; target=&quot;_blank&quot;&gt;brown suede leather blazer&lt;/a&gt; to become the ultimate show-stopper board member.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lower&lt;/strong&gt;: Erlich chooses to pair these with &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B0099DPY6E/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0099DPY6E&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=ZSZYILSV6CPZJKRJ&quot; target=&quot;_blank&quot;&gt;olive-colored cargo pants&lt;/a&gt;, however, given his avant-garde style, pairing Erlich’s top with some khakis listed above will calm the look down quite a bit. Being Erlich however, why not go for full cargo pants!?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kicks&lt;/strong&gt;: If you want to go for the comfortable sandal approach like Erlich, try some &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.amazon.com/gp/product/B000OCSJN4/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000OCSJN4&amp;amp;linkCode=as2&amp;amp;tag=prodrecodgad-20&amp;amp;linkId=5PVSY2U3V7QFBJJC&quot; target=&quot;_blank&quot;&gt;very comfortable Birkenstock sandals&lt;/a&gt;, or like the pants, try the brown leather cap-toes listed above.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While all these styles are unique to the hard-working team at Pied Piper, their general style is not to be overlooked. Find some different colors or styles that may suit your personality better and you will be well on your way to looking like “the” modern day software developer.&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://www.programmerdresscode.com/silicon-valley-wardrobe/&quot;&gt;Present Like Pied Piper&lt;/a&gt; was originally published by Programmer Dress Code at &lt;a href=&quot;http://www.programmerdresscode.com&quot;&gt;Programmer Dress Code&lt;/a&gt; on November 05, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
